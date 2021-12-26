@@ -1,0 +1,1 @@
+This project is a recreation of the Odin Project #2: The Landing Page. It was created by looking at an image of the finished website and built entirely from scratch using flexbox. The final product is able to be viewed at: https://jwjackson-005.github.io/landing-page/
