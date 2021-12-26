@@ -1,0 +1,41 @@
+body {
+    display:flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.section-1 {
+    background-color: #1F2937;
+    height: 525px;
+    display: flex;
+    flex-direction: column;
+}
+
+.section-1-header {
+    padding: 20px 15%;
+    display: flex;
+}
+
+.section-2 {
+    height: 500px;
+}
+
+.section-3 {
+    height: 425px;
+    background-color: #E5E7EB;
+}
+
+.section-4 {
+    height: 375px;
+}
+
+.footer {
+    height: 100px;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
